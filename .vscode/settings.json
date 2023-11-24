@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "/home/lakrim/Documents/studi/analyseur_live_flutter_5octobre2023/linux"
+}
